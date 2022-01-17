@@ -1,5 +1,5 @@
 <h1 align="center"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃!
-<img src= "https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif" height="240px" width="390px" align="right">
+<img src= "https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif" height="240px" width="370px" align="right">
 </h1>
 <br>
 
