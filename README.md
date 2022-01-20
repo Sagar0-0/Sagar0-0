@@ -37,6 +37,8 @@
  
 
 
+ ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=redical&hide_border=true&area=true)
+
 [twitter]: https://twitter.com/sagar0_o
 [youtube]: https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw
 [gmail]: https://gmail.com/sagar.0dev/
