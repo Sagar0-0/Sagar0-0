@@ -19,6 +19,10 @@
 
 
 
+
+
+
+
 <hr>
 
 
@@ -27,6 +31,13 @@
 
 
 
+
+
+
+
+
+
+<!-- streak and trophies -->
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"/>
@@ -43,6 +54,13 @@
 
 
 
+
+
+
+
+
+
+
 <hr>
 
 
@@ -52,6 +70,10 @@
 
 
 
+
+
+
+<!-- tools and github giant logo -->
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/daftpunktocat-guy.gif">
 <br/>
 
@@ -85,6 +107,11 @@
 
 
 
+
+
+
+
+
 <hr>
 
 
@@ -100,13 +127,16 @@
 
 
 
+
+
+
+
+<!-- github stats and graph -->
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<!--   most used langs table -->
+<!--     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /> -->
 </p>
-
-<!-- ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true) -->
-<!-- ![Sagar's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)  -->
 
 ![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
@@ -120,6 +150,14 @@
 
 
 
+
+
+
+
+
+
+
+
 <hr>
 
 
@@ -135,6 +173,8 @@
 
 
 
+
+<!-- connect section -->
 <h1 align="center"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
 <img src= "https://c.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" height="270px" width="370px" align="right">
 </h1>
@@ -200,6 +240,13 @@
 
 
 
+
+
+
+
+
+
+
 <hr>
 
 
@@ -207,6 +254,14 @@
 
 
 
+
+
+
+
+
+
+
+<!-- outro -->
 <div align="center">
   
 
@@ -214,18 +269,3 @@
 
  
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-
-
-
-
-<!-- #
-
-![Footer](https://c.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif) -->
-
-<!-- links to socials -->
-[twitter]: https://twitter.com/sagar0_o
-[youtube]: https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw
-[gmail]: https://gmail.com/sagar.0dev/
-[linkedin]: https://www.linkedin.com/in/sagar-malhotra7015/
-[Facebook]: https://www.facebook.com/
