@@ -16,6 +16,9 @@
 
 
 
+
+
+
 <hr>
 
 
@@ -52,7 +55,7 @@
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/daftpunktocat-guy.gif">
 <br/>
 
-**𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒:**  
+**𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒:**
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -68,6 +71,7 @@
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+
 
 <br/>
 <br/>
@@ -115,16 +119,93 @@
 
 <hr>
 
-<!-- socials section -->
-<h2 align="center">𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
+<img src= "https://c.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" height="270px" width="370px" align="right">
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
+    <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
+  </a>
+  <a href="https://gmail.com/sagar.0dev/" target="_blank">
+    <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
+  </a>  
+  <a href="https://twitter.com/sagar0_o" target="_blank">
+    <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
+  </a>
+  <a href="https://www.linkedin.com/in/sagar-malhotra7015/">
+    <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
+  </a> 
+  <a href="https://dev.to/sagar0_0">
+    <code><img height="50" width="50" src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg"></code>
+  </a>   
+  <a href="https://www.instagram.com/_sagar_malhotra_/" target="_blank">
+    <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
+  </a>  
+</p>
+<br/>
+
+
+<p align="center">
+  <a href="https://www.hackerrank.com/sagar_0dev/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/></code>
+  </a>
+
+  <a href="https://www.interviewbit.com/profile/sagar0_0" target="_blank">
+    <code><img height="50" width="50" src="https://i0.wp.com/blog.interviewbit.com/wp-content/uploads/2017/11/cropped-logo-transparent.png?fit=240%2C169&ssl=1"/></code>
+  </a>
+
+  <a href="https://www.codechef.com/users/sagar0_0" target="_blank">
+    <code><img height="50" width="50" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
+  </a>
   
-[<img height="30" align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
-[<img height="30" align="center" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>][Youtube] 
-[<img height="30" align="center" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>][Facebook]
+  <a href="https://leetcode.com/sagar0_0/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></code>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/0sagar0/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png"/></code>
+  </a>
+  <a href="https://stackoverflow.com/users/16775065/sagar-malhotra" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/></code>
+  </a>
+</p>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
 
+
+
+
+
+
+<div align="center">
+  
 
  ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
 
