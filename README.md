@@ -49,7 +49,7 @@
 
 
 
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/daftpunktocat-guy.gif">
 <br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒:**  
@@ -95,6 +95,7 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true">
 </p>
 
 <!-- ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true) -->
@@ -125,11 +126,17 @@
 <hr>
 
 
-# 👀 ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
 
  
-<hr>
 
+
+
+
+
+<!-- #
+
+![Footer](https://c.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif) -->
 
 <!-- links to socials -->
 [twitter]: https://twitter.com/sagar0_o
