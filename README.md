@@ -178,7 +178,7 @@
 
 <!-- connect section -->
 <h1 align="center"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
-<img src= "https://c.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" height="270px" width="370px" align="right">
+<img src= "GIF/the-matrix-has-you.gif" height="270px" width="370px" align="right">
 </h1>
 
 <p align="center">
