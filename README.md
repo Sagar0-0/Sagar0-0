@@ -1,6 +1,6 @@
 <!-- intro hello world -->
 <h1 align="center"> 
-<img src="GIF/Earth.gif" width="24px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
+𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
 <img src= "GIF/robo_world.gif" height="270px" width="370px" align="right">
 </h1>
 <br>
@@ -183,7 +183,7 @@
 
 <!-- connect section -->
 <h1 align="center">
-<img src="GIF/Handshake.gif" width="24px"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
 <img src= "GIF/the-matrix-has-you.gif" height="270px" width="370px" align="right">
 </h1>
 
