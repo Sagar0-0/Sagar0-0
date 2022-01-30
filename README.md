@@ -1,6 +1,6 @@
 <!-- intro hello world -->
 <h1 align="center"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
-<img src= "https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif" height="270px" width="370px" align="right">
+<img src= "GIF/robo_world.gif" height="270px" width="370px" align="right">
 </h1>
 <br>
 
