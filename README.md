@@ -1,5 +1,6 @@
 <!-- intro hello world -->
-<h1 align="center"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
+<h1 align="center"> 
+<img src="GIF/Earth.gif" width="24px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
 <img src= "GIF/robo_world.gif" height="270px" width="370px" align="right">
 </h1>
 <br>
@@ -133,8 +134,10 @@
 
 
 <!-- github stats and graph -->
-<h1 align="center"> <img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+<h1 align="center">
+<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
 </h1>
+
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <!--   most used langs table -->
@@ -177,8 +180,10 @@
 
 
 
+
 <!-- connect section -->
-<h1 align="center"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
+<h1 align="center">
+<img src="GIF/Handshake.gif" width="24px"> 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
 <img src= "GIF/the-matrix-has-you.gif" height="270px" width="370px" align="right">
 </h1>
 
