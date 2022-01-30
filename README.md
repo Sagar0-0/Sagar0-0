@@ -133,7 +133,8 @@
 
 
 <!-- github stats and graph -->
-<h1 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒</h1>
+<h1 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img src="GIF/Hi.gif">
+</h1>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <!--   most used langs table -->
