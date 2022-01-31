@@ -5,38 +5,15 @@
 </h1>
 <br>
 
-- 🤖 **AI Enthusiast** 
-- 🚀 **Currently working on PYTHON** 
+- 🤖 **AI Enthusiast**
+- 🚀 **Currently working on PYTHON**
 - 👨‍💻 **Ask me about Android application development**
-- 🤝 **Looking forward to collaborate on Open source projects** 
-- 💬 **Feel free to reach me out for any help** 
+- 🤝 **Looking forward to collaborate on Open source projects**
+- 💬 **Feel free to reach me out for any help**
 - ⚡ **Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- streak and trophies -->
 <p align="center">
@@ -48,37 +25,13 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-
-
-
-
-
-
-
-
-
-
 
 <!-- tools and github giant logo -->
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/daftpunktocat-guy.gif">
 <br/>
 
-**𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒:**
+**𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -100,38 +53,7 @@
 <br/>
 <br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- github stats and graph -->
 <h1 align="center">
@@ -144,42 +66,9 @@
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Sagar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- connect section -->
 <h1 align="center">
@@ -200,16 +89,15 @@
   </a>
   <a href="https://www.linkedin.com/in/sagar-malhotra7015/">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
-  </a> 
+  </a>
   <a href="https://dev.to/sagar0_0">
     <code><img height="50" width="50" src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg"></code>
-  </a>   
+  </a>
   <a href="https://www.instagram.com/_sagar_malhotra_/" target="_blank">
     <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
   </a>  
 </p>
 <br/>
-
 
 <p align="center">
   <a href="https://www.hackerrank.com/sagar_0dev/" target="_blank">
@@ -236,44 +124,9 @@
 </p>
 
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- outro -->
 <div align="center">
-  
 
- ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
-
- 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
