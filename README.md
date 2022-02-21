@@ -22,7 +22,7 @@
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 
 <hr>
