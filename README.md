@@ -5,12 +5,12 @@
 </h1>
 <br>
 
+- ▶️ **YouTube**
 - 🤖 **AI Enthusiast**
 - 🚀 **Currently working on PYTHON**
 - 👨‍💻 **Ask me about Android application development**
 - 🤝 **Looking forward to collaborate on Open source projects**
-- 💬 **Feel free to reach me out for any help**
-- ⚡ **Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
+- ⚡ **Fun fact : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
 <br>
 
 <hr>
@@ -25,6 +25,18 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 
+<hr>
+<!-- youtube sedction -->
+<h1 align="center">
+𝗬𝗼𝘂𝗧𝘂𝗯𝗲 <img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="44px">
+</h1>
+
+<div align = "center">
+  <a href="http://www.youtube.com/watch?v=ndS-BKFbpUU" target="_blank"><img src="http://img.youtube.com/vi/ndS-BKFbpUU/0.jpg" 
+   alt="Top Coding Mistakes I Made" width="370px" height="270px" border="10"></a>
+  <a href="https://www.youtube.com/watch?v=l6uHV1ct3v4" target="_blank"><img src="http://img.youtube.com/vi/l6uHV1ct3v4/0.jpg" 
+  alt="Best Programming Language" width="370px" height="270px" border="10" ></a>
+</div>
 <hr>
 
 <!-- tools and github giant logo -->
