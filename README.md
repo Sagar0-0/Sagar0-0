@@ -28,14 +28,14 @@
 <hr>
 <!-- youtube sedction -->
 <h1 align="center">
-𝗬𝗼𝘂𝗧𝘂𝗯𝗲 <img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="44px">
+𝐘𝐨𝐮𝐓𝐮𝐛𝐞<img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="44px">
 </h1>
 
 <div align = "center">
   <a href="http://www.youtube.com/watch?v=ndS-BKFbpUU" target="_blank"><img src="http://img.youtube.com/vi/ndS-BKFbpUU/0.jpg" 
-   alt="Top Coding Mistakes I Made" width="370px" height="270px" border="10"></a>
+   alt="Top Coding Mistakes I Made" width="370px" height="270px" border="20"></a>
   <a href="https://www.youtube.com/watch?v=l6uHV1ct3v4" target="_blank"><img src="http://img.youtube.com/vi/l6uHV1ct3v4/0.jpg" 
-  alt="Best Programming Language" width="370px" height="270px" border="10" ></a>
+  alt="Best Programming Language" width="370px" height="270px" border="20" ></a>
 </div>
 <hr>
 
