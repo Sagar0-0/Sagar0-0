@@ -28,7 +28,7 @@
 <hr>
 <!-- youtube sedction -->
 <h1 align="center">
-<img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="44px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" width="44px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
 </h1>
 
 <div align = "center">
