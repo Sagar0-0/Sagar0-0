@@ -26,15 +26,15 @@
 <br>
 
 <hr>
-<!-- youtube sedction -->
+<!-- youtube section -->
 <h1 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" width="44px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
 </h1>
 
 <div align = "center">
-  <a href="http://www.youtube.com/watch?v=ndS-BKFbpUU" target="_blank"><img src="http://img.youtube.com/vi/ndS-BKFbpUU/0.jpg" 
+  <a href="https://youtu.be/yGL-HKOmwt8" target="_blank"><img src="http://img.youtube.com/vi/yGL-HKOmwt8/0.jpg" 
    alt="Top Coding Mistakes I Made" width="370px" height="270px" border="20"></a>&nbsp &nbsp
-  <a href="https://www.youtube.com/watch?v=l6uHV1ct3v4" target="_blank"><img src="http://img.youtube.com/vi/l6uHV1ct3v4/0.jpg" 
+  <a href="http://www.youtube.com/watch?v=ndS-BKFbpUU" target="_blank"><img src="http://img.youtube.com/vi/ndS-BKFbpUU/0.jpg" 
   alt="Best Programming Language" width="370px" height="270px" border="20" ></a>
 </div>
 <hr>
