@@ -34,7 +34,7 @@
 <div align = "center">
   <a href="https://youtu.be/yGL-HKOmwt8" target="_blank"><img src="http://img.youtube.com/vi/yGL-HKOmwt8/0.jpg" 
    alt="Top Coding Mistakes I Made" width="370px" height="270px" border="20"></a>&nbsp &nbsp
-  <a href="http://www.youtube.com/watch?v=ndS-BKFbpUU" target="_blank"><img src="http://img.youtube.com/vi/ndS-BKFbpUU/0.jpg" 
+  <a href="https://youtu.be/beM8oxCukvQ" target="_blank"><img src="http://img.youtube.com/vi/beM8oxCukvQ/0.jpg" 
   alt="Best Programming Language" width="370px" height="270px" border="20" ></a>
 </div>
 <hr>
