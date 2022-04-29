@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          commit_message: "Lates Youtube videos updated"
           max_post_count: 2
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbXjqGX2O0UW12AIboO2Psw"
