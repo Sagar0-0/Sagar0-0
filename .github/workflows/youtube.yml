@@ -6,11 +6,11 @@ on:
 
 jobs:
   youtube:
-    name: latest videos from YouTube
+    name: Update Latest YouTube videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE-VIDEOS"
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbXjqGX2O0UW12AIboO2Psw"
