@@ -38,7 +38,10 @@
   alt="DSA ROADMAP" width="370px" height="270px" border="20" ></a>
 </div>
 
-<!-- YOUTUBE:START -->$postImage$postImage<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+- [Lecture 3 | Taking User Input in JAVA | Type Casting | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=Mh3A3nNGGYs)
+- [Lecture 2 | Primitive Data Types in JAVA | Variables | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=ksnKorhcI1k)
+<!-- YOUTUBE:END -->
 
 <hr>
 
