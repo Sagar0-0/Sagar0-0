@@ -32,9 +32,9 @@
 </h1>
 
 <div align = "center">
-  <a href="https://youtu.be/mVyyLqTLg3Q" target="_blank"><img src="http://img.youtube.com/vi/mVyyLqTLg3Q/0.jpg" 
-   alt="Lecture1" width="370px" height="270px" border="20"></a>&nbsp &nbsp
   <a href="https://youtu.be/ksnKorhcI1k" target="_blank"><img src="http://img.youtube.com/vi/ksnKorhcI1k/0.jpg" 
+   alt="Lecture1" width="370px" height="270px" border="20"></a>&nbsp &nbsp
+  <a href="https://youtu.be/Mh3A3nNGGYs" target="_blank"><img src="http://img.youtube.com/vi/Mh3A3nNGGYs/0.jpg" 
   alt="DSA ROADMAP" width="370px" height="270px" border="20" ></a>
 </div>
 <hr>
