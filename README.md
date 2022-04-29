@@ -34,9 +34,6 @@
 <!-- YOUTUBE:START -->
 - [Lecture 3 | Taking User Input in JAVA | Type Casting | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=Mh3A3nNGGYs)
 - [Lecture 2 | Primitive Data Types in JAVA | Variables | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=ksnKorhcI1k)
-- [Lecture 1 | Syntax of JAVA | Pseudo Code | Our First Program | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=mVyyLqTLg3Q)
-- [BEST Data Structures and Algorithms Roadmap for PLACEMENTS || COURSE ANNOUNCEMENT🔥](https://www.youtube.com/watch?v=beM8oxCukvQ)
-- [EVERYTHING You need to know about OPEN SOURCE | How to Start? | GSoC⭐ | FAANG❌](https://www.youtube.com/watch?v=yGL-HKOmwt8)
 <!-- YOUTUBE:END -->
 
 <div align = "center">
