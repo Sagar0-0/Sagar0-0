@@ -30,6 +30,7 @@
 <h1 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" width="44px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
 </h1>
+
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Lecture 3 | Taking User Input in JAVA | Type Casting | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=Mh3A3nNGGYs)
 - [Lecture 2 | Primitive Data Types in JAVA | Variables | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=ksnKorhcI1k)
@@ -37,6 +38,7 @@
 - [BEST Data Structures and Algorithms Roadmap for PLACEMENTS || COURSE ANNOUNCEMENT🔥](https://www.youtube.com/watch?v=beM8oxCukvQ)
 - [EVERYTHING You need to know about OPEN SOURCE | How to Start? | GSoC⭐ | FAANG❌](https://www.youtube.com/watch?v=yGL-HKOmwt8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+
 <div align = "center">
   <a href="https://youtu.be/ksnKorhcI1k" target="_blank"><img src="http://img.youtube.com/vi/ksnKorhcI1k/0.jpg" 
    alt="Lecture1" width="370px" height="270px" border="20"></a>&nbsp &nbsp
