@@ -38,9 +38,10 @@
   alt="DSA ROADMAP" width="370px" height="270px" border="20" ></a>
 </div>
 
-<!-- YOUTUBE:START -->
-- [Lecture 3 | Taking User Input in JAVA | Type Casting | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=Mh3A3nNGGYs)
-- [Lecture 2 | Primitive Data Types in JAVA | Variables | JAVA + DSA COMPLETE COURSE](https://www.youtube.com/watch?v=ksnKorhcI1k)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs"><img width="140px" src="https://i.ytimg.com/vi/Mh3A3nNGGYs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs">Lecture 3 | Taking User Input in JAVA | Type Casting | JAVA + DSA COMPLETE COURSE</a><br/>Apr 29, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ksnKorhcI1k"><img width="140px" src="https://i.ytimg.com/vi/ksnKorhcI1k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ksnKorhcI1k">Lecture 2 | Primitive Data Types in JAVA | Variables | JAVA + DSA COMPLETE COURSE</a><br/>Apr 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <hr>
