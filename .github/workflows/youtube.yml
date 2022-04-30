@@ -18,5 +18,5 @@ jobs:
           max_post_count: 2
           comment_tag_name: "YOUTUBE"
           committer_email: "sagar.0dev@gmail.com"
-          template: '<a href="$url" target="_blank"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" width="370px" border="20"></a>'
+          template: '<a href="$url" target="_blank"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" height="220px" border="20"></a>&nbsp &nbsp'
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbXjqGX2O0UW12AIboO2Psw"
