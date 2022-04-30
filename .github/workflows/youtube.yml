@@ -13,6 +13,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Latest Youtube videos updated"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
           max_post_count: 2
           comment_tag_name: "YOUTUBE"
+          committer_email: "sagar.0dev@gmail.com"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbXjqGX2O0UW12AIboO2Psw"
