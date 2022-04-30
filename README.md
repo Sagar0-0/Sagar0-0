@@ -40,9 +40,7 @@
 
 <div align = "center">
 
-<!-- YOUTUBE:START -->
-<a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs" target="_blank"><img src="https://i.ytimg.com/vi/Mh3A3nNGGYs/mqdefault.jpg" width="370px" height="270px" border="20"></a><a href="https://www.youtube.com/watch?v=ksnKorhcI1k" target="_blank"><img src="https://i.ytimg.com/vi/ksnKorhcI1k/mqdefault.jpg" width="370px" height="270px" border="20"></a>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs" target="_blank"><img src="https://i.ytimg.com/vi/Mh3A3nNGGYs/mqdefault.jpg" width="370px" border="20"></a><a href="https://www.youtube.com/watch?v=ksnKorhcI1k" target="_blank"><img src="https://i.ytimg.com/vi/ksnKorhcI1k/mqdefault.jpg" width="370px" border="20"></a><!-- YOUTUBE:END -->
 
 </div>
   
