@@ -33,7 +33,7 @@
 
 <div align = "center">
 
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs" target="_blank"><img src="https://i.ytimg.com/vi/Mh3A3nNGGYs/mqdefault.jpg" height="270px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=ksnKorhcI1k" target="_blank"><img src="https://i.ytimg.com/vi/ksnKorhcI1k/mqdefault.jpg" height="270px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=Mh3A3nNGGYs" target="_blank"><img src="https://i.ytimg.com/vi/Mh3A3nNGGYs/mqdefault.jpg" height="240px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=ksnKorhcI1k" target="_blank"><img src="https://i.ytimg.com/vi/ksnKorhcI1k/mqdefault.jpg" height="240px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
 
 </div>
   
