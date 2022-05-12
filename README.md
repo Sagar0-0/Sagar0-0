@@ -99,10 +99,10 @@
   <a href="https://twitter.com/sagar0_o" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
   </a>
-  <a href="https://www.linkedin.com/in/sagar-malhotra7015/">
+  <a href="https://www.linkedin.com/in/sagar-malhotra7015/" target="_blank">
     <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
   </a>
-  <a href="https://dev.to/sagar0_0">
+  <a href="https://dev.to/sagar0_0" target="_blank">
     <code><img height="50" width="50" src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg"></code>
   </a>
   <a href="https://www.instagram.com/_sagar_malhotra_/" target="_blank">
