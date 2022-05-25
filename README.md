@@ -40,7 +40,7 @@
 <hr>
 
 <!-- tools and github giant logo -->
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/github.webp">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/gold_cat.webp">
 <br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
