@@ -1,7 +1,7 @@
 <!-- intro hello world -->
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
-<img src= "WEBP/robo_world.webp" height="250px" width="350px" align="right">
+<img src= "WEBP/robo_world.webp" height="230px" width="330px" align="right">
 </h1>
 <br>
 
@@ -17,9 +17,9 @@
 
 <!-- streak and trophies -->
 <p align="center">
-  <img height="130" width="130" src="WEBP/left.webp">
+  <img height="120" width="110" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"/>
-  <img height="130" width="130" src="WEBP/right.webp">
+  <img height="120" width="110" src="WEBP/right.webp">
 </p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
@@ -33,7 +33,7 @@
 
 <div align = "center">
 
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=ztKlXvMJje4" target="_blank"><img src="https://i.ytimg.com/vi/ztKlXvMJje4/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=fNDc4AYgj1Q" target="_blank"><img src="https://i.ytimg.com/vi/fNDc4AYgj1Q/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=ztKlXvMJje4" target="_blank"><img src="https://i.ytimg.com/vi/ztKlXvMJje4/mqdefault.jpg" height="190px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=fNDc4AYgj1Q" target="_blank"><img src="https://i.ytimg.com/vi/fNDc4AYgj1Q/mqdefault.jpg" height="190px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
 
 </div>
   
@@ -85,7 +85,7 @@
 <!-- connect section -->
 <h1 align="center">
 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
-<img src= "WEBP/the_matrix_has_you.webp" height="250px" width="350px" align="right">
+<img src= "WEBP/the_matrix_has_you.webp" height="240px" width="340px" align="right">
 </h1>
 
 <p align="center">
