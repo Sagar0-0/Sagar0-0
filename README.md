@@ -1,7 +1,7 @@
 <!-- intro hello world -->
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
-<img src= "WEBP/robo_world.webp" height="230px" width="330px" align="right">
+<img src= "WEBP/robo_world.webp" height="250px" width="350px" align="right">
 </h1>
 <br>
 
