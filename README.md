@@ -28,7 +28,7 @@
 <hr>
 <!-- youtube section -->
 <h1 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" width="44px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" height="40px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
 </h1>
 
 <div align = "center">
