@@ -93,7 +93,7 @@
   <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
   </a>
-  <a href="https://gmail.com/sagar.0dev/" target="_blank">
+  <a href="mailto:sagar.0dev@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
   <a href="https://twitter.com/sagar0_o" target="_blank">
