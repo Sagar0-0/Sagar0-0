@@ -6,8 +6,8 @@
 <br>
 
 - ▶️ **YouTube**
-- 🤖 **AI Enthusiast**
-- 🚀 **Currently working on PYTHON**
+- 🔮 **DevOps Enthusiast**
+- 🚀 **Currently working with LINUX**
 - 👨‍💻 **Ask me about Android application development**
 - 🤝 **Looking forward to collaborate on Open source projects**
 - ⚡ **Fun fact : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
