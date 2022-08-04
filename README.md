@@ -6,10 +6,10 @@
 <br>
 
 - ▶️ **YouTube**
-- 🔮 **DevOps Enthusiast**
-- 🚀 **Currently working with LINUX**
+- 🔮 **Using LINUX**
+- 🚀 **Going for DevOps**
+- 🤝 **Helping hand for your open source project**
 - 👨‍💻 **Ask me about Android application development**
-- 🤝 **Looking forward to collaborate on Open source projects**
 - ⚡ **Fun fact : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
 <br>
 
