@@ -14,11 +14,13 @@
 
 <hr>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+<img align="left" height="350" width="350" alt="𝙶𝙸𝙵" src="GIF/usb_by_deiby_ybied_d3j17gw.gif">
 
-<!--   most used langs table
-<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p> -->
+<img align="right" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true">
+
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+
+<!-- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /> -->
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
@@ -38,7 +40,7 @@
 <hr>
 
 <!-- tools and github giant logo -->
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/usb_by_deiby_ybied_d3j17gw.gif">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/gold_cat.webp">
 <br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
@@ -131,5 +133,3 @@
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
-  
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
