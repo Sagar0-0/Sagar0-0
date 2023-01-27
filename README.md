@@ -1,11 +1,11 @@
 <!-- intro hello world -->
 <h1 align="center">
 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
-<img src= "WEBP/robo_world.webp" height="250px" width="350px" align="right">
+<img src= "GIF/android_by_deiby_ybied_d3jaevn.gif" height="250px" align="right">
 </h1>
 <br>
 
-- ▶️ **YouTube**
+- 💚 **YouTube**
 - 🔮 **Composing your app**
 - 🤝 **Helping hand for your open source project**
 - 👨‍💻 **Ask me about Android application development**
@@ -14,12 +14,11 @@
 
 <hr>
 
-<!-- streak and trophies -->
-<p align="center">
-  <img height="120" width="110" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"/>
-  <img height="120" width="110" src="WEBP/right.webp">
-</p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+
+<!--   most used langs table
+<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p> -->
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
@@ -27,7 +26,7 @@
 <hr>
 <!-- youtube section -->
 <h1 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" height="40px">𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
+𝐋𝐚𝐭𝐞𝐬𝐭 𝐕𝐢𝐝𝐞𝐨𝐬:
 </h1>
 
 <div align = "center">
@@ -39,7 +38,7 @@
 <hr>
 
 <!-- tools and github giant logo -->
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/gold_cat.webp">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/usb_by_deiby_ybied_d3j17gw.gif">
 <br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
@@ -63,21 +62,6 @@
 <br/>
 <br/>
 <br/>
-
-<hr>
-
-<!-- github stats and graph -->
-<h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
-</h1>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-<!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 <hr>
 
