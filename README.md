@@ -33,14 +33,16 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671024284920/Ak-mF6Kjh.png" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><strong>How collaboration helped me find my passion</strong></a>
-<br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
+<a href="https://sagar0-0.hashnode.dev/extensions-in-kotlin" title="Extensions in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675486907150/9199158e-482c-40dd-8594-8208c57e1af6.png" alt="Extensions in Kotlin" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/extensions-in-kotlin" title="Extensions in Kotlin"><strong>Extensions in Kotlin</strong></a>
+<br/> In this article, we will learn about extensions and what are the different cases where you can(and should) use them. Before starting, I am supposing that you have a basic understanding of OOPs in any programming language.
+Extensions:
+We know, wheneve... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671169959137/TjOgNp2-P.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><strong>5 ways to find projects in Open Source</strong></a>
-<br/> One of the challenges faced by a beginner is to find an Open Source project to contribute. The best way to kick start your contribution is by contributing to friends and community projects.
-In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
+<a href="https://sagar0-0.hashnode.dev/nested-navgraph-in-a-fragment" title="Nested NavGraph in a Fragment"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675394499126/2a3eb392-eb33-44e5-a9c1-03b9e4ab2097.png" alt="Nested NavGraph in a Fragment" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/nested-navgraph-in-a-fragment" title="Nested NavGraph in a Fragment"><strong>Nested NavGraph in a Fragment</strong></a>
+<br/> Android Jetpack's Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer.
+In this article, we will learn how you can Implement the Navigation component in a ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
