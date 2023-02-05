@@ -33,16 +33,16 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/abstract-classes-and-interfaces-in-kotlin-a-complete-guide" title="Abstract Classes and Interfaces in Kotlin: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675589507015/e4478843-1581-4125-88dc-0fb43a1550c4.png" alt="Abstract Classes and Interfaces in Kotlin: A Complete Guide" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/abstract-classes-and-interfaces-in-kotlin-a-complete-guide" title="Abstract Classes and Interfaces in Kotlin: A Complete Guide"><strong>Abstract Classes and Interfaces in Kotlin: A Complete Guide</strong></a>
+<br/> Kotlin provides two mechanisms for defining a blueprint for classes: abstract classes and interfaces. Both abstract classes and interfaces play important roles in object-oriented programming, but they have different use cases and features.
+Though in ... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/extensions-in-kotlin" title="Extensions in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675486907150/9199158e-482c-40dd-8594-8208c57e1af6.png" alt="Extensions in Kotlin" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/extensions-in-kotlin" title="Extensions in Kotlin"><strong>Extensions in Kotlin</strong></a>
 <br/> In this article, we will learn about extensions and what are the different cases where you can(and should) use them. Before starting, I am supposing that you have a basic understanding of OOPs in any programming language.
 Extensions:
 We know, wheneve... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/nested-navgraph-in-a-fragment" title="Nested NavGraph in a Fragment"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675394499126/2a3eb392-eb33-44e5-a9c1-03b9e4ab2097.png" alt="Nested NavGraph in a Fragment" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/nested-navgraph-in-a-fragment" title="Nested NavGraph in a Fragment"><strong>Nested NavGraph in a Fragment</strong></a>
-<br/> Android Jetpack's Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer.
-In this article, we will learn how you can Implement the Navigation component in a ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
