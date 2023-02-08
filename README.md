@@ -33,15 +33,15 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675790162175/de9d802d-270c-4788-97d7-51bc25848d10.png" alt="Sealed vs Enum Classes in Kotlin" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><strong>Sealed vs Enum Classes in Kotlin</strong></a>
+<br/> Kotlin is a statically typed programming language designed to improve the productivity and readability of code. It provides several features that simplify the development process, including sealed classes and enum classes.
+These two types of classes ... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/flow-sharedflow-stateflow-and-livedata-a-complete-guide" title="Flow, SharedFlow, StateFlow and LiveData - A complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675688575078/ad46ee16-7906-4ab9-a034-fc5753a57437.png" alt="Flow, SharedFlow, StateFlow and LiveData - A complete Guide" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/flow-sharedflow-stateflow-and-livedata-a-complete-guide" title="Flow, SharedFlow, StateFlow and LiveData - A complete Guide"><strong>Flow, SharedFlow, StateFlow and LiveData - A complete Guide</strong></a>
 <br/> Previously, we used to create one request and then wait for our whole request to get completed. And after all this wait, we get our data to do any calculation.
 Example: You order 3 burgers and wait for all of them to get ready. This will be not a goo... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/abstract-classes-and-interfaces-in-kotlin-a-complete-guide" title="Abstract Classes and Interfaces in Kotlin: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675589507015/e4478843-1581-4125-88dc-0fb43a1550c4.png" alt="Abstract Classes and Interfaces in Kotlin: A Complete Guide" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/abstract-classes-and-interfaces-in-kotlin-a-complete-guide" title="Abstract Classes and Interfaces in Kotlin: A Complete Guide"><strong>Abstract Classes and Interfaces in Kotlin: A Complete Guide</strong></a>
-<br/> Kotlin provides two mechanisms for defining a blueprint for classes: abstract classes and interfaces. Both abstract classes and interfaces play important roles in object-oriented programming, but they have different use cases and features.
-Though in ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
