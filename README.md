@@ -33,15 +33,14 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/inline-functions-in-kotlin" title="Inline Functions in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675871583488/825093d8-abb5-4e27-a11e-190d6bcdb39a.png" alt="Inline Functions in Kotlin" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/inline-functions-in-kotlin" title="Inline Functions in Kotlin"><strong>Inline Functions in Kotlin</strong></a>
+<br/> Kotlin, a statically-typed programming language, was designed to be an improved version of Java. One of the notable features of Kotlin is the inline functions, which can significantly improve the performance of the code by reducing the overhead of fu... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675790162175/de9d802d-270c-4788-97d7-51bc25848d10.png" alt="Sealed vs Enum Classes in Kotlin" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><strong>Sealed vs Enum Classes in Kotlin</strong></a>
 <br/> Kotlin is a statically typed programming language designed to improve the productivity and readability of code. It provides several features that simplify the development process, including sealed classes and enum classes.
 These two types of classes ... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/flow-sharedflow-stateflow-and-livedata-a-complete-guide" title="Flow, SharedFlow, StateFlow and LiveData - A complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675688575078/ad46ee16-7906-4ab9-a034-fc5753a57437.png" alt="Flow, SharedFlow, StateFlow and LiveData - A complete Guide" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/flow-sharedflow-stateflow-and-livedata-a-complete-guide" title="Flow, SharedFlow, StateFlow and LiveData - A complete Guide"><strong>Flow, SharedFlow, StateFlow and LiveData - A complete Guide</strong></a>
-<br/> Previously, we used to create one request and then wait for our whole request to get completed. And after all this wait, we get our data to do any calculation.
-Example: You order 3 burgers and wait for all of them to get ready. This will be not a goo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
