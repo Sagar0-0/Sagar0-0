@@ -33,14 +33,19 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/navigation-drawer-in-jetpack-compose" title="Navigation Drawer in Jetpack Compose: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677088175311/048d111d-aef3-4158-8b65-d56dd658f075.png" alt="Navigation Drawer in Jetpack Compose: A Complete Guide" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/navigation-drawer-in-jetpack-compose" title="Navigation Drawer in Jetpack Compose: A Complete Guide"><strong>Navigation Drawer in Jetpack Compose: A Complete Guide</strong></a>
+<br/> We are going to use the Jetpack Navigation component for Compose and create a Drawer with multiple destinations.
+I will be directly creating the composables and explaining all the important things line by line in the comments.
+Output:
+
+
+Design
+Depend... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/inline-functions-in-kotlin" title="Inline Functions in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675871583488/825093d8-abb5-4e27-a11e-190d6bcdb39a.png" alt="Inline Functions in Kotlin" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/inline-functions-in-kotlin" title="Inline Functions in Kotlin"><strong>Inline Functions in Kotlin</strong></a>
 <br/> Kotlin, a statically-typed programming language, was designed to be an improved version of Java. One of the notable features of Kotlin is the inline functions, which can significantly improve the performance of the code by reducing the overhead of fu... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675790162175/de9d802d-270c-4788-97d7-51bc25848d10.png" alt="Sealed vs Enum Classes in Kotlin" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/sealed-vs-enum-classes-in-kotlin" title="Sealed vs Enum Classes in Kotlin"><strong>Sealed vs Enum Classes in Kotlin</strong></a>
-<br/> Kotlin is a statically typed programming language designed to improve the productivity and readability of code. It provides several features that simplify the development process, including sealed classes and enum classes.
-These two types of classes ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
