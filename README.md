@@ -33,6 +33,14 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/highlight-your-selected-drawer-item" title="Highlight your Selected Drawer Item: Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677856838534/e805c55e-f273-404b-b099-41b212effe31.png" alt="Highlight your Selected Drawer Item: Jetpack Compose" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/highlight-your-selected-drawer-item" title="Highlight your Selected Drawer Item: Jetpack Compose"><strong>Highlight your Selected Drawer Item: Jetpack Compose</strong></a>
+<br/> In this article, we will be implementing the one missing feature of our Drawer in Compose, and that is to highlight the selected item so that the user will know which Screen you are in.
+Output:
+
+Implementation:
+This article is an extension of the pre... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/scrolltotop-feature" title="ScrollToTop Feature in LazyColumn: Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677606932777/b1702071-cba7-447d-8ec7-cfa12684b7ea.png" alt="ScrollToTop Feature in LazyColumn: Jetpack Compose" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/scrolltotop-feature" title="ScrollToTop Feature in LazyColumn: Jetpack Compose"><strong>ScrollToTop Feature in LazyColumn: Jetpack Compose</strong></a>
 <br/> In this article, we’ll demonstrate how to incorporate the ScrollToTop feature, a widely-used functionality in Android, into a Jetpack Compose app.
@@ -41,16 +49,6 @@ Output:
 
 Creating:
 In my actual project, I was using... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/navigation-drawer-in-jetpack-compose" title="Navigation Drawer in Jetpack Compose: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677088175311/048d111d-aef3-4158-8b65-d56dd658f075.png" alt="Navigation Drawer in Jetpack Compose: A Complete Guide" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/navigation-drawer-in-jetpack-compose" title="Navigation Drawer in Jetpack Compose: A Complete Guide"><strong>Navigation Drawer in Jetpack Compose: A Complete Guide</strong></a>
-<br/> We are going to use the Jetpack Navigation component for Compose and create a Drawer with multiple destinations.
-I will be directly creating the composables and explaining all the important things line by line in the comments.
-Output:
-
-
-Design
-Depend... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
