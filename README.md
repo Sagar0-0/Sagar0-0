@@ -97,8 +97,3 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <a href="https://www.buymeacoffee.com/0sagar0">
   <img src="https://user-images.githubusercontent.com/85388413/197355117-e4a5f6e7-44ee-4303-adb8-3ef39cd18246.jpg" width=200px>
 </a>
-
-<!-- outro -->
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
