@@ -33,6 +33,10 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/bottomsheet" title="BottomSheet in Jetpack Compose: Implementation & Customization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678637009397/1720b696-7672-4008-b2dd-225e0ec6cfea.png" alt="BottomSheet in Jetpack Compose: Implementation & Customization" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/bottomsheet" title="BottomSheet in Jetpack Compose: Implementation & Customization"><strong>BottomSheet in Jetpack Compose: Implementation & Customization</strong></a>
+<br/> Bottom Sheet is a widely used UI element in Android apps that appears as a sheet sliding up from the bottom of the screen, partially covering the content below it. It is used to display contextual information or actions that are related to the curren... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/tabrow-in-jetpack-compose" title="TabRow in Jetpack Compose: Implementation & Customization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678261870667/00f0be5b-35ec-409c-a179-121e95de37d2.png" alt="TabRow in Jetpack Compose: Implementation & Customization" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/tabrow-in-jetpack-compose" title="TabRow in Jetpack Compose: Implementation & Customization"><strong>TabRow in Jetpack Compose: Implementation & Customization</strong></a>
 <br/> In this article, we will be implementing and then customizing the feature of “switching between different screens with tabs” in Jetpack compose.
@@ -40,14 +44,6 @@ Final Output:
 The provided TabRow design is so boring and old-fashioned (without a search bar).
 
 So, we a... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/highlight-your-selected-drawer-item" title="Highlight your Selected Drawer Item: Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677856838534/e805c55e-f273-404b-b099-41b212effe31.png" alt="Highlight your Selected Drawer Item: Jetpack Compose" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/highlight-your-selected-drawer-item" title="Highlight your Selected Drawer Item: Jetpack Compose"><strong>Highlight your Selected Drawer Item: Jetpack Compose</strong></a>
-<br/> In this article, we will be implementing the one missing feature of our Drawer in Compose, and that is to highlight the selected item so that the user will know which Screen you are in.
-Output:
-
-Implementation:
-This article is an extension of the pre... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
