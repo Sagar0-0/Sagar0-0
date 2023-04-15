@@ -33,14 +33,16 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/pass-arguments-to-destinations-jetpack-compose-navigation" title="Pass Arguments to Destinations : Jetpack Compose Navigation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681556448506/b3887092-f6b4-43c0-843e-bcd6e3782249.png" alt="Pass Arguments to Destinations : Jetpack Compose Navigation" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/pass-arguments-to-destinations-jetpack-compose-navigation" title="Pass Arguments to Destinations : Jetpack Compose Navigation"><strong>Pass Arguments to Destinations : Jetpack Compose Navigation</strong></a>
+<br/> Introduction:
+In Jetpack Compose, you can navigate between different screens using the NavController class from the Navigation component. Passing arguments to the Destination will be like adding Query param or Path to a URL.
+To pass arguments to the ... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/googlemaps" title="GoogleMaps in Jetpack Compose: Marking the Device Location"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679407675120/429c2dcf-1a3b-474e-b511-d0ba6bf0dd85.png" alt="GoogleMaps in Jetpack Compose: Marking the Device Location" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/googlemaps" title="GoogleMaps in Jetpack Compose: Marking the Device Location"><strong>GoogleMaps in Jetpack Compose: Marking the Device Location</strong></a>
 <br/> In this article, we will be using android-maps-compose library and implementing GoogleMaps in Jetpack compose. Additionally, we will be also using Android’s Places SDK to get your device's last known location and mark it on Map.
 There was no dedicate... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/bottomsheet" title="BottomSheet in Jetpack Compose: Implementation & Customization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678637009397/1720b696-7672-4008-b2dd-225e0ec6cfea.png" alt="BottomSheet in Jetpack Compose: Implementation & Customization" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/bottomsheet" title="BottomSheet in Jetpack Compose: Implementation & Customization"><strong>BottomSheet in Jetpack Compose: Implementation & Customization</strong></a>
-<br/> Bottom Sheet is a widely used UI element in Android apps that appears as a sheet sliding up from the bottom of the screen, partially covering the content below it. It is used to display contextual information or actions that are related to the curren... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
