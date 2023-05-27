@@ -33,15 +33,14 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/google-sms-retriever-api-in-jetpack-compose" title="Google SMS-Retriever API in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685105948010/8982ee7b-f841-4162-894e-d747032f01ed.png" alt="Google SMS-Retriever API in Jetpack Compose" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/google-sms-retriever-api-in-jetpack-compose" title="Google SMS-Retriever API in Jetpack Compose"><strong>Google SMS-Retriever API in Jetpack Compose</strong></a>
+<br/> Introduction:
+The Google SMS-Retrieval API allows Android apps to automatically retrieve SMS messages containing one-time passwords (OTPs) from the user’s device by showing a one-time consent to the user before reading the SMS. This can be used to im... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/firebase-google-phone-auth-in-jetpack-compose" title="Firebase Google & Phone Auth in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682095325739/34dd1c78-2bb0-49d6-85c4-1f8c58c649b8.png" alt="Firebase Google & Phone Auth in Jetpack Compose" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/firebase-google-phone-auth-in-jetpack-compose" title="Firebase Google & Phone Auth in Jetpack Compose"><strong>Firebase Google & Phone Auth in Jetpack Compose</strong></a>
 <br/> In this article, we will explore how to implement Firebase authentication using Google and Phone Auth in Jetpack Compose and provide step-by-step guidance for developers to create a robust and secure authentication system for their android applicatio... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/pass-arguments-to-destinations-jetpack-compose-navigation" title="Pass Arguments to Destinations : Jetpack Compose Navigation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681556448506/b3887092-f6b4-43c0-843e-bcd6e3782249.png" alt="Pass Arguments to Destinations : Jetpack Compose Navigation" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/pass-arguments-to-destinations-jetpack-compose-navigation" title="Pass Arguments to Destinations : Jetpack Compose Navigation"><strong>Pass Arguments to Destinations : Jetpack Compose Navigation</strong></a>
-<br/> Introduction:
-In Jetpack Compose, you can navigate between different screens using the NavController class from the Navigation component. Passing arguments to the Destination will be like adding Query param or Path to a URL.
-To pass arguments to the ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
