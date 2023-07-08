@@ -33,14 +33,14 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/phone-number-hint-api-in-jetpack-compose" title="Phone Number Hint API in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688817948931/8a831d4f-8e58-44d5-baa8-e41465d25888.png" alt="Phone Number Hint API in Jetpack Compose" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/phone-number-hint-api-in-jetpack-compose" title="Phone Number Hint API in Jetpack Compose"><strong>Phone Number Hint API in Jetpack Compose</strong></a>
+<br/> The Phone Number Hint API is a part of the Google Play services library and uses a PendingIntent to initiate the flow. This means that the user is presented with a UI that lists all of their SIM-based phone numbers. The user can then select the phone... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/google-sms-retriever-api-in-jetpack-compose" title="Google SMS-Retriever API in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685105948010/8982ee7b-f841-4162-894e-d747032f01ed.png" alt="Google SMS-Retriever API in Jetpack Compose" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/google-sms-retriever-api-in-jetpack-compose" title="Google SMS-Retriever API in Jetpack Compose"><strong>Google SMS-Retriever API in Jetpack Compose</strong></a>
 <br/> Introduction:
 The Google SMS-Retrieval API allows Android apps to automatically retrieve SMS messages containing one-time passwords (OTPs) from the user’s device by showing a one-time consent to the user before reading the SMS. This can be used to im... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/firebase-google-phone-auth-in-jetpack-compose" title="Firebase Google & Phone Auth in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682095325739/34dd1c78-2bb0-49d6-85c4-1f8c58c649b8.png" alt="Firebase Google & Phone Auth in Jetpack Compose" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/firebase-google-phone-auth-in-jetpack-compose" title="Firebase Google & Phone Auth in Jetpack Compose"><strong>Firebase Google & Phone Auth in Jetpack Compose</strong></a>
-<br/> In this article, we will explore how to implement Firebase authentication using Google and Phone Auth in Jetpack Compose and provide step-by-step guidance for developers to create a robust and secure authentication system for their android applicatio... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
