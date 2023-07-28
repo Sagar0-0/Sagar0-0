@@ -33,6 +33,20 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690538697091/58e7631d-97e2-457c-ae1c-e71c1272bf69.png" alt="Use GoogleMaps and get Marker Address Details in Jetpack Compose" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><strong>Use GoogleMaps and get Marker Address Details in Jetpack Compose</strong></a>
+<br/> Output:
+
+Pre-requisites:
+
+Prior knowledge of MVVM & Jetpack compose is mandatory, I won’t explain every single thing.
+
+Better to test it on a Physical device.
+
+
+
+ NOTE: We will only focus on the functionality and not the UI. You can create your UI an... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/show-turn-on-device-location-requestlike-google-maps-in-jetpack-compose" title="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689591299781/826677f1-e488-471a-b466-f366f47764c2.png" alt="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/show-turn-on-device-location-requestlike-google-maps-in-jetpack-compose" title="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose"><strong>Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose</strong></a>
 <br/> Output:
@@ -48,10 +62,6 @@ Basics of Hilt for Dependency Injection.
 Better Testing on physical devices.
 
 We will be observing the... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/phone-number-hint-api-in-jetpack-compose" title="Phone Number Hint API in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688817948931/8a831d4f-8e58-44d5-baa8-e41465d25888.png" alt="Phone Number Hint API in Jetpack Compose" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/phone-number-hint-api-in-jetpack-compose" title="Phone Number Hint API in Jetpack Compose"><strong>Phone Number Hint API in Jetpack Compose</strong></a>
-<br/> The Phone Number Hint API is a part of the Google Play services library and uses a PendingIntent to initiate the flow. This means that the user is presented with a UI that lists all of their SIM-based phone numbers. The user can then select the phone... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
