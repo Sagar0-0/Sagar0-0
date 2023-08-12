@@ -33,6 +33,11 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/using-proto-datastore-in-jetpack-compose-with-hilt" title="Using Proto Datastore in Jetpack compose with Hilt"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691837218839/c1ccc8fd-0010-4de9-a799-fa1443977618.png" alt="Using Proto Datastore in Jetpack compose with Hilt" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/using-proto-datastore-in-jetpack-compose-with-hilt" title="Using Proto Datastore in Jetpack compose with Hilt"><strong>Using Proto Datastore in Jetpack compose with Hilt</strong></a>
+<br/> What is Proto Datastore:
+One of the downsides of SharedPreferences and Preferences DataStore is that there is no way to define a schema or to ensure that keys are accessed with the correct type. Proto DataStore addresses this problem by using Protoco... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690538697091/58e7631d-97e2-457c-ae1c-e71c1272bf69.png" alt="Use GoogleMaps and get Marker Address Details in Jetpack Compose" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><strong>Use GoogleMaps and get Marker Address Details in Jetpack Compose</strong></a>
 <br/> Output:
@@ -46,22 +51,6 @@ Better to test it on a Physical device.
 
 
  NOTE: We will only focus on the functionality and not the UI. You can create your UI an... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/show-turn-on-device-location-requestlike-google-maps-in-jetpack-compose" title="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689591299781/826677f1-e488-471a-b466-f366f47764c2.png" alt="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/show-turn-on-device-location-requestlike-google-maps-in-jetpack-compose" title="Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose"><strong>Show ‘Turn on device location’ Request(like Google Maps) in Jetpack Compose</strong></a>
-<br/> Output:
-
-Pre-requisites:
-
-Need Locations Permission access already. For details: Check this.
-
-Knowledge of MVVM(We will be using ViewModel only).
-
-Basics of Hilt for Dependency Injection.
-
-Better Testing on physical devices.
-
-We will be observing the... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
