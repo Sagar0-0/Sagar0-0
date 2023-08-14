@@ -33,24 +33,15 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/viewmodel-testing-with-junit5-mockk-turbine" title="ViewModel Testing with JUnit5, MockK & Turbine"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691930928643/3b94863a-a16c-41d6-98f3-5f383b7a13eb.png" alt="ViewModel Testing with JUnit5, MockK & Turbine" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/viewmodel-testing-with-junit5-mockk-turbine" title="ViewModel Testing with JUnit5, MockK & Turbine"><strong>ViewModel Testing with JUnit5, MockK & Turbine</strong></a>
+<br/> Introduction:
+Unit testing your viewmodel class is one of the most important steps in your Android application development as it is the only place where you manage all your UiState and interact with the data layer, so you need to ensure everything wo... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/using-proto-datastore-in-jetpack-compose-with-hilt" title="Using Proto Datastore in Jetpack compose with Hilt"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691837218839/c1ccc8fd-0010-4de9-a799-fa1443977618.png" alt="Using Proto Datastore in Jetpack compose with Hilt" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/using-proto-datastore-in-jetpack-compose-with-hilt" title="Using Proto Datastore in Jetpack compose with Hilt"><strong>Using Proto Datastore in Jetpack compose with Hilt</strong></a>
 <br/> What is Proto Datastore:
 One of the downsides of SharedPreferences and Preferences DataStore is that there is no way to define a schema or to ensure that keys are accessed with the correct type. Proto DataStore addresses this problem by using Protoco... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690538697091/58e7631d-97e2-457c-ae1c-e71c1272bf69.png" alt="Use GoogleMaps and get Marker Address Details in Jetpack Compose" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/use-googlemaps-and-get-marker-address-details-in-jetpack-compose" title="Use GoogleMaps and get Marker Address Details in Jetpack Compose"><strong>Use GoogleMaps and get Marker Address Details in Jetpack Compose</strong></a>
-<br/> Output:
-
-Pre-requisites:
-
-Prior knowledge of MVVM & Jetpack compose is mandatory, I won’t explain every single thing.
-
-Better to test it on a Physical device.
-
-
-
- NOTE: We will only focus on the functionality and not the UI. You can create your UI an... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
