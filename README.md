@@ -33,17 +33,20 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693918357084/21fe881e-0153-4582-9d7b-65462539670d.png" alt="Firebase Cloud Messaging in Android : Efficiently handling the Device Token" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><strong>Firebase Cloud Messaging in Android : Efficiently handling the Device Token</strong></a>
+<br/> FCM workflow Overview:
+
+A unique identifier of every device is generated each time the fresh(First launch, clear data, re-installing, etc) app is there. We’ll call it Device FCM Token or just Token.
+
+Token is required to send PUSH notifications to th... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/testing-retrofit-api-calls-in-android" title="Testing Retrofit API calls in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692283122924/bd5aec4e-1a7e-44af-a584-27b52e732543.png" alt="Testing Retrofit API calls in Android" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/testing-retrofit-api-calls-in-android" title="Testing Retrofit API calls in Android"><strong>Testing Retrofit API calls in Android</strong></a>
 <br/> Retrofit is a type-safe HTTP-Client that you are using in your Android project to consume the API responses you want.
 Why need to test this?
 
 Your API development is independent of your Android project and it might have some structural changes over t... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/viewmodel-testing-with-junit5-mockk-turbine" title="ViewModel Testing with JUnit5, MockK & Turbine"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691930928643/3b94863a-a16c-41d6-98f3-5f383b7a13eb.png" alt="ViewModel Testing with JUnit5, MockK & Turbine" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/viewmodel-testing-with-junit5-mockk-turbine" title="ViewModel Testing with JUnit5, MockK & Turbine"><strong>ViewModel Testing with JUnit5, MockK & Turbine</strong></a>
-<br/> Introduction:
-Unit testing your viewmodel class is one of the most important steps in your Android application development as it is the only place where you manage all your UiState and interact with the data layer, so you need to ensure everything wo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
