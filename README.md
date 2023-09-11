@@ -33,6 +33,16 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694426881662/c70f0a16-dc81-4897-9fcd-3d690246e43b.png" alt="Building a Referral system: Play Install Referrer Library in Android" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><strong>Building a Referral system: Play Install Referrer Library in Android</strong></a>
+<br/> Pre-requisites:
+
+A unique referral code generation mechanism for every user(should be done in the backend).
+
+Testing the feature can be done in the developer release of your app.
+
+Applying and checking the referral code validation should be done with... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693918357084/21fe881e-0153-4582-9d7b-65462539670d.png" alt="Firebase Cloud Messaging in Android : Efficiently handling the Device Token" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><strong>Firebase Cloud Messaging in Android : Efficiently handling the Device Token</strong></a>
 <br/> FCM workflow Overview:
@@ -40,13 +50,6 @@ Latest Blogs:
 A unique identifier of every device is generated each time the fresh(First launch, clear data, re-installing, etc) app is there. We’ll call it Device FCM Token or just Token.
 
 Token is required to send PUSH notifications to th... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/testing-retrofit-api-calls-in-android" title="Testing Retrofit API calls in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692283122924/bd5aec4e-1a7e-44af-a584-27b52e732543.png" alt="Testing Retrofit API calls in Android" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/testing-retrofit-api-calls-in-android" title="Testing Retrofit API calls in Android"><strong>Testing Retrofit API calls in Android</strong></a>
-<br/> Retrofit is a type-safe HTTP-Client that you are using in your Android project to consume the API responses you want.
-Why need to test this?
-
-Your API development is independent of your Android project and it might have some structural changes over t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
