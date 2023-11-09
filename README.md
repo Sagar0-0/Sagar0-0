@@ -33,6 +33,14 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/jetpack-compose-ui-testing-in-android" title="Jetpack Compose UI Testing in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699453091502/89517bd7-9ad0-4d42-89ec-3bc5e4caa2a8.png" alt="Jetpack Compose UI Testing in Android" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/jetpack-compose-ui-testing-in-android" title="Jetpack Compose UI Testing in Android"><strong>Jetpack Compose UI Testing in Android</strong></a>
+<br/> Like always we will directly jump into the implementation part and learn the things on the go…
+Dependency:
+// Test rules and transitive dependencies:
+androidTestImplementation("androidx.compose.ui:ui-test-junit4:$compose_version")
+// Needed for creat... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694426881662/c70f0a16-dc81-4897-9fcd-3d690246e43b.png" alt="Building a Referral system: Play Install Referrer Library in Android" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><strong>Building a Referral system: Play Install Referrer Library in Android</strong></a>
 <br/> Pre-requisites:
@@ -42,14 +50,6 @@ A unique referral code generation mechanism for every user(should be done in the
 Testing the feature can be done in the developer release of your app.
 
 Applying and checking the referral code validation should be done with... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693918357084/21fe881e-0153-4582-9d7b-65462539670d.png" alt="Firebase Cloud Messaging in Android : Efficiently handling the Device Token" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/firebase-cloud-messaging-in-android-efficiently-handling-the-device-token" title="Firebase Cloud Messaging in Android : Efficiently handling the Device Token"><strong>Firebase Cloud Messaging in Android : Efficiently handling the Device Token</strong></a>
-<br/> FCM workflow Overview:
-
-A unique identifier of every device is generated each time the fresh(First launch, clear data, re-installing, etc) app is there. We’ll call it Device FCM Token or just Token.
-
-Token is required to send PUSH notifications to th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
