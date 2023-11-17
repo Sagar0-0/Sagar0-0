@@ -33,6 +33,10 @@ Latest Blogs:
 </h1>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sagar0-0.hashnode.dev/razorpay-integration-in-android-easy-step-by-step-guide" title="Razorpay Integration in Android: Easy Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700205747377/3803338e-621b-46b7-bf41-b97997d75eb4.png" alt="Razorpay Integration in Android: Easy Step-by-Step Guide" width="250px" align="left" /></a>
+<a href="https://sagar0-0.hashnode.dev/razorpay-integration-in-android-easy-step-by-step-guide" title="Razorpay Integration in Android: Easy Step-by-Step Guide"><strong>Razorpay Integration in Android: Easy Step-by-Step Guide</strong></a>
+<br/> In this article, I will be showing you how you can integrate the Razorpay payment gateway into your production-ready application. Also, I will be explaining our approach to integrating this with our server, and even if you don’t have your server I wi... </p> <br/> <br/>
+<p align="left">
 <a href="https://sagar0-0.hashnode.dev/jetpack-compose-ui-testing-in-android" title="Jetpack Compose UI Testing in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699453091502/89517bd7-9ad0-4d42-89ec-3bc5e4caa2a8.png" alt="Jetpack Compose UI Testing in Android" width="250px" align="left" /></a>
 <a href="https://sagar0-0.hashnode.dev/jetpack-compose-ui-testing-in-android" title="Jetpack Compose UI Testing in Android"><strong>Jetpack Compose UI Testing in Android</strong></a>
 <br/> Like always we will directly jump into the implementation part and learn the things on the go…
@@ -40,16 +44,6 @@ Dependency:
 // Test rules and transitive dependencies:
 androidTestImplementation("androidx.compose.ui:ui-test-junit4:$compose_version")
 // Needed for creat... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694426881662/c70f0a16-dc81-4897-9fcd-3d690246e43b.png" alt="Building a Referral system: Play Install Referrer Library in Android" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/building-a-referral-system-play-install-referrer-library-in-android" title="Building a Referral system: Play Install Referrer Library in Android"><strong>Building a Referral system: Play Install Referrer Library in Android</strong></a>
-<br/> Pre-requisites:
-
-A unique referral code generation mechanism for every user(should be done in the backend).
-
-Testing the feature can be done in the developer release of your app.
-
-Applying and checking the referral code validation should be done with... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
   
   
