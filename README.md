@@ -5,9 +5,9 @@
 </h1>
 <br>
 
-- 💚 **YouTube**
+- 💚 **Open Source**
 - 🔮 **Composing your app**
-- 🤝 **Helping hand for your open source project**
+- 🤝 **Helping hand for starting your tech journey**
 - 👨‍💻 **Ask me about Android application development**
 - ⚡ **Fun fact : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
 <br>
