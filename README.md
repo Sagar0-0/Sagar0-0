@@ -31,18 +31,10 @@ Latest Videos:
 <h1 align="center">
 Latest Blogs:
 </h1>
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Effect Handlers in Jetpack Compose: A Complete Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702554640204/b9f9aa42-8906-458b-ae85-7d74f9f4c332.png" alt="Effect Handlers in Jetpack Compose: A Complete Guide" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/effect-handlers-in-jetpack-compose-a-complete-guide" title="Effect Handlers in Jetpack Compose: A Complete Guide"><strong>Effect Handlers in Jetpack Compose: A Complete Guide</strong></a>
-<br/> Effect Handlers: as the name suggests, they are used to handle the “side”-effects in Jetpack-Compose. But, what exactly is a *side-*effect?
-According to docs: A side-effect is a change to the state of the app that happens outside the scope of a compo... </p> <br/> <br/>
-<p align="left">
-<a href="https://sagar0-0.hashnode.dev/razorpay-integration-in-android-easy-step-by-step-guide" title="Razorpay Integration in Android: Easy Step-by-Step Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700205747377/3803338e-621b-46b7-bf41-b97997d75eb4.png" alt="Razorpay Integration in Android: Easy Step-by-Step Guide" width="250px" align="left" /></a>
-<a href="https://sagar0-0.hashnode.dev/razorpay-integration-in-android-easy-step-by-step-guide" title="Razorpay Integration in Android: Easy Step-by-Step Guide"><strong>Razorpay Integration in Android: Easy Step-by-Step Guide</strong></a>
-<br/> In this article, I will be showing you how you can integrate the Razorpay payment gateway into your production-ready application. Also, I will be explaining our approach to integrating this with our server, and even if you don’t have your server I wi... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-  
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
   
 <hr>
 
