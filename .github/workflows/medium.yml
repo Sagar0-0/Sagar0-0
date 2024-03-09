@@ -16,8 +16,8 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://sagar0-0.medium.com/feed"
-          # feed_list: "https://sagar0-0.hashnode.dev/rss.xml"
+          # feed_list: "https://sagar0-0.medium.com/feed"
+          feed_list: "https://sagar0-0.hashnode.dev/rss.xml"
           max_post_count: 2
           custom_tags: "postImage/cover_image/"
           template: '<table><tr><td><a href="$url"><img width="140px" src="$postImage"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
