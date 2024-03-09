@@ -33,7 +33,11 @@ Latest Blogs:
 </h1>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Add Multilingual support &lpar;Multiple Languages&rpar; to your Android App](https://proandroiddev.com/add-multilingual-support-multiple-languages-to-your-android-app-4c0fd23cbdb8?source=rss-b48b9b0e3d4d------2)
+- [Everything about JVMField, JVMOverloads, JVMName, and JVMStatic annotations in Kotlin](https://proandroiddev.com/everything-about-jvmfield-jvmoverloads-jvmname-and-jvmstatic-annotations-in-kotlin-158383081cb8?source=rss-b48b9b0e3d4d------2)
+- [Effect Handlers in Jetpack Compose: A Complete Guide](https://proandroiddev.com/effect-handlers-in-jetpack-compose-a-complete-guide-e9a820d20734?source=rss-b48b9b0e3d4d------2)
+- [Razorpay Integration in Android: Easy Step-by-Step Guide](https://sagar0-0.medium.com/razorpay-integration-in-android-easy-step-by-step-guide-af2e66c85dc5?source=rss-b48b9b0e3d4d------2)
+- [Jetpack Compose UI Testing in Android](https://blog.stackademic.com/jetpack-compose-ui-testing-in-android-412b6b3a58b5?source=rss-b48b9b0e3d4d------2)
 <!-- BLOG-POST-LIST:END -->
   
 <hr>
