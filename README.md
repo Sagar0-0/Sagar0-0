@@ -32,10 +32,10 @@ Latest Videos:
 Latest Blogs:
 </h1>
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/add-multilingual-support-multiple-languages-to-your-android-app"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709992035819/1f266ef2-7984-44ff-92f4-d96354f2d9ec.png"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/understanding-jetpack-compose-internal-implementation-and-working"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711182931185/ecbfca95-4edc-44ed-8acb-a89d4ffc05d9.png"></a></td>
+<td><a href="https://sagar0-0.hashnode.dev/understanding-jetpack-compose-internal-implementation-and-working">Understanding Jetpack Compose: Internal Implementation and Working</a><br/>Sat Mar 23 2024 8:37 AM</td></tr></table>
+<table><tr><td><a href="https://sagar0-0.hashnode.dev/add-multilingual-support-multiple-languages-to-your-android-app"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709992035819/1f266ef2-7984-44ff-92f4-d96354f2d9ec.png"></a></td>
 <td><a href="https://sagar0-0.hashnode.dev/add-multilingual-support-multiple-languages-to-your-android-app">Add Multilingual support &lpar;Multiple Languages&rpar; to your Android App</a><br/>Sat Mar 09 2024 1:49 PM</td></tr></table>
-<table><tr><td><a href="https://sagar0-0.hashnode.dev/everything-about-jvmfield-jvmoverloads-jvmname-and-jvmstatic-annotations-in-kotlin"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707984043653/f6f91dca-25ef-4fb9-a9d5-4fb5e80ed40a.png"></a></td>
-<td><a href="https://sagar0-0.hashnode.dev/everything-about-jvmfield-jvmoverloads-jvmname-and-jvmstatic-annotations-in-kotlin">Everything about JVMField, JVMOverloads, JVMName, and JVMStatic annotations in Kotlin</a><br/>Thu Feb 15 2024 8:02 AM</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
   
 <hr>
