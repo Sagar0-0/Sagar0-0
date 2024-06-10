@@ -32,9 +32,9 @@ Latest Videos:
 Latest Blogs:
 </h1>
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/kotlin-coroutine-essentials-everything-you-need-to-know"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715017908589/bba36073-4ab0-418f-aa56-0e71e8c3ecfd.png"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/kotlin-coroutine-essentials-everything-you-need-to-know"><img width="140px" src=""></a></td>
 <td><a href="https://sagar0-0.hashnode.dev/kotlin-coroutine-essentials-everything-you-need-to-know">Kotlin Coroutine Essentials: Everything you need to know</a><br/>Mon May 06 2024 6:00 PM</td></tr></table>
-<table><tr><td><a href="https://sagar0-0.hashnode.dev/understanding-kotlin-coroutines"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714321629769/894d6bf5-763c-4030-a6ed-720a627675d3.png"></a></td>
+<table><tr><td><a href="https://sagar0-0.hashnode.dev/understanding-kotlin-coroutines"><img width="140px" src=""></a></td>
 <td><a href="https://sagar0-0.hashnode.dev/understanding-kotlin-coroutines">Understanding Kotlin Coroutines: What, How, and Why?</a><br/>Sun Apr 28 2024 4:28 PM</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
   
