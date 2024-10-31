@@ -54,7 +54,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
   <a href="mailto:sagar.0dev@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>
-  <a href="https://twitter.com/sagar0_o" target="_blank">
+  <a href="https://x.com/imSagarMalhotra" target="_blank">
     <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
   </a>
   <a href="https://www.linkedin.com/in/sagar0-0malhotra/" target="_blank">
