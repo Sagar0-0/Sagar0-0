@@ -32,10 +32,10 @@ Latest Videos:
 Latest Blogs:
 </h1>
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/dp-vs-sp-vs-dpi-vs-px-in-android"><img width="140px" src=""></a></td>
-<td><a href="https://sagar0-0.hashnode.dev/dp-vs-sp-vs-dpi-vs-px-in-android">DP vs SP vs DPI vs PX in Android</a><br/>Sun Jul 28 2024 3:38 PM</td></tr></table>
-<table><tr><td><a href="https://sagar0-0.hashnode.dev/kotlin-coroutine-essentials-everything-you-need-to-know"><img width="140px" src=""></a></td>
-<td><a href="https://sagar0-0.hashnode.dev/kotlin-coroutine-essentials-everything-you-need-to-know">Kotlin Coroutine Essentials: Everything you need to know</a><br/>Mon May 06 2024 6:00 PM</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/the-2-best-ways-to-secure-your-api-keys-in-android-projects"><img width="140px" src=""></a></td>
+<td><a href="https://sagar0-0.hashnode.dev/the-2-best-ways-to-secure-your-api-keys-in-android-projects">The 2 Best ways to secure your API KEYS in Android Projects</a><br/>Mon Nov 04 2024 5:15 PM</td></tr></table>
+<table><tr><td><a href="https://sagar0-0.hashnode.dev/create-and-publish-your-android-open-source-library-in-minutes"><img width="140px" src=""></a></td>
+<td><a href="https://sagar0-0.hashnode.dev/create-and-publish-your-android-open-source-library-in-minutes">Create and publish your Android Open-Source Library in Minutes</a><br/>Mon Nov 04 2024 5:13 PM</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
   
 <hr>
