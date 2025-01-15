@@ -26,11 +26,14 @@ Latest Videos:
 Latest Blogs:
 </h1>
 
+
+<div align = "center">
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://sagar0-0.hashnode.dev/understanding-low-memory-management-in-android-kswapd-lmk"><img width="140px" src=""></a></td>
 <td><a href="https://sagar0-0.hashnode.dev/understanding-low-memory-management-in-android-kswapd-lmk">Understanding Low Memory Management in Android: Kswapd &amp; LMK</a><br/>Tue Dec 17 2024 2:15 PM</td></tr></table>
 <table><tr><td><a href="https://sagar0-0.hashnode.dev/the-2-best-ways-to-secure-your-api-keys-in-android-projects"><img width="140px" src=""></a></td>
 <td><a href="https://sagar0-0.hashnode.dev/the-2-best-ways-to-secure-your-api-keys-in-android-projects">The 2 Best ways to secure your API KEYS in Android Projects</a><br/>Mon Nov 04 2024 5:15 PM</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
+</div>
   
 <hr>
 
