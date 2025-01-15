@@ -1,6 +1,5 @@
 <!-- intro hello world -->
 # Hi there👋! I'm [Sagar](https://shreyaspatil.dev) 🙋‍♂️
-<img src= "GIF/android_by_deiby_ybied_d3jaevn.gif" height="250px" align="right">
 
 ### I...
 - 👦 am an Android & Kotlin nerd who wants to know what's under the hood 🔨
