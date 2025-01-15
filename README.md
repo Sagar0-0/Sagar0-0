@@ -1,20 +1,17 @@
 <!-- intro hello world -->
-<h1 align="center">
-𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="GIF/Earth.gif" width="24px">
+# Hi there👋! I'm [Sagar](https://shreyaspatil.dev) 🙋‍♂️
 <img src= "GIF/android_by_deiby_ybied_d3jaevn.gif" height="250px" align="right">
-</h1>
-<br>
 
-- 💚 **Open Source**
-- 🔮 **Composing your app**
-- 🤝 **Helping hand for starting your tech journey**
-- 👨‍💻 **Ask me about Android application development**
-- ⚡ **Fun fact : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation**
-<br>
-
+### I...
+- 👦 am an Android & Kotlin nerd who wants to know what's under the hood 🔨
+- 💼 am working as an Android Engineer [@BABB](https://getbabb.com/). Ex - [@DarDoc](https://www.dardoc.com/).
+- 👨‍💻 have OCD for code quality.🤯
+- 📽️ create Video content on [Youtube](https://www.youtube.com/@imSagarMalhotra)
+- ✍️ write in-depth articles on [Medium](https://sagar0-0.medium.com/).
+- 🫂 am Founder & Organizer of [D4 Community](https://in.linkedin.com/company/d4community)
+- 💪 am a fitness enthusiast
 
 <hr>
-
 
 <!-- youtube section -->
 <h1 align="center">
@@ -41,6 +38,13 @@ Latest Blogs:
 <hr>
 
 
+<h1 align="center">
+Githb stats:
+</h1>
+<div align = "center">
+<img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"><img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+</div>
+
 <!-- connect section -->
 <h1 align="center">
 Let's Connect <img src="GIF/Handshake.gif" width="24px">
@@ -48,7 +52,7 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 <div align="center">
 <p align="center">
   <br>
-  <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
+  <a href="https://www.youtube.com/@imSagarMalhotra" target="_blank">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
   </a>
   <a href="mailto:sagar.0dev@gmail.com" target="_blank">
@@ -75,17 +79,4 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
 </p>
 </div>
 
-
 <hr>
-
-
-<img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"><img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
-
-
-<hr>
-
-
-### Wanna Help out?
-<a href="https://www.buymeacoffee.com/0sagar0">
-  <img src="https://user-images.githubusercontent.com/85388413/197355117-e4a5f6e7-44ee-4303-adb8-3ef39cd18246.jpg" width=200px>
-</a>
