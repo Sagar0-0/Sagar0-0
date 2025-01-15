@@ -1,5 +1,5 @@
 <!-- intro hello world -->
-# Hi there👋! I'm [Sagar](https://shreyaspatil.dev) 🙋‍♂️
+# Hi there👋! I'm [Sagar](https://github.com/Sagar0-0) 🙋‍♂️
 
 ### I...
 - 👦 am an Android & Kotlin nerd who wants to know what's under the hood 🔨
