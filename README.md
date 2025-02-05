@@ -15,7 +15,7 @@
 Latest Videos:
 </h1>
 <div align = "center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=-41j2AI1cqQ" target="_blank"><img src="https://i.ytimg.com/vi/-41j2AI1cqQ/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=0w9psWKRwKs" target="_blank"><img src="https://i.ytimg.com/vi/0w9psWKRwKs/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=Sc8gw6qPtS4" target="_blank"><img src="https://i.ytimg.com/vi/Sc8gw6qPtS4/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<a href="https://www.youtube.com/watch?v=-41j2AI1cqQ" target="_blank"><img src="https://i.ytimg.com/vi/-41j2AI1cqQ/mqdefault.jpg" height="200px" border="20"></a>&nbsp &nbsp<!-- YOUTUBE:END -->
 </div>
 
 
