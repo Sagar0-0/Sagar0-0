@@ -2,8 +2,8 @@
 # Hi there👋! I'm [Sagar](https://github.com/Sagar0-0) 🙋‍♂️
 
 ### I...
-- 👦 am an Android & Kotlin nerd who wants to know what's under the hood 🔨
-- 💼 am working as an Android Engineer [@BABB](https://getbabb.com/). Ex - [@DarDoc](https://www.dardoc.com/).
+- 👦 am an Android nerd who wants to know what's under the hood 🔨
+- 💼 am an Android Engineer @[BABB](https://getbabb.com/). Ex - @[DarDoc](https://www.dardoc.com/).
 - 👨‍💻 have OCD for code quality.🤯
 - 📽️ create Video on [Youtube](https://www.youtube.com/@imSagarMalhotra) and write on [Medium](https://sagar0-0.medium.com/).
 - 🫂 am Founder & Organizer of [D4 Community](https://in.linkedin.com/company/d4community)
