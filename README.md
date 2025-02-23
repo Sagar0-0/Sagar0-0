@@ -40,7 +40,8 @@ Latest Blogs:
 Githb stats:
 </h1>
 <div align = "center">
-<img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"><img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
+<!-- <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"> -->
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
 </div>
 
 <hr>
