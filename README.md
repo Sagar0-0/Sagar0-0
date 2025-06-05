@@ -1,5 +1,6 @@
 <!-- intro hello world -->
 # Hi there👋! I'm [Sagar](https://github.com/Sagar0-0) 🙋‍♂️ 
+> Clean code is cheaper than therapy
 
 - 👦 I am an Android nerd who wants to know what's under the hood.
 - 👨‍💻 I have PTSD from poor code quality.
