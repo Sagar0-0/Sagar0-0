@@ -66,14 +66,8 @@ Let's Connect <img src="GIF/Handshake.gif" width="24px">
   <a href="https://sagar0-0.medium.com/" target="_blank">
     <code><img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"></code>
   </a>
-  <a href="https://www.instagram.com/theandroidwala/" target="_blank">
-    <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
-  </a>
   <a href="https://sagar0-0.hashnode.dev/" target="_blank">
     <code><img height="50" width="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"></code>
-  </a>
-  <a href="https://discordapp.com/users/sagar0_0#2945" target="_blank">
-    <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"></code>
   </a>
 </p>
 </div>
