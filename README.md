@@ -1,8 +1,7 @@
 <!-- intro hello world -->
 # Hi there👋! I'm [Sagar](https://github.com/Sagar0-0) , an Android Engineer🙋‍♂️ 
-"Clean code is cheaper than therapy."
 
-If it compiles, I’ll still read the source. 🤝
+"If it compiles, I’ll still read the source." 🤝
 
 Learn Android with me on [Youtube](https://www.youtube.com/@imSagarMalhotra) and [Medium](https://sagar0-0.medium.com/).
 
